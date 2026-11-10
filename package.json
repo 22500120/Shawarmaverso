@@ -1,0 +1,9 @@
+{
+  "name": "shawarmahero",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo acadêmico de delivery de shawarma com HTML, CSS e JavaScript puro.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

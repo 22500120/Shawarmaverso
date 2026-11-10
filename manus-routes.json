@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "Shawarmaverso — Home" },
+    { "path": "/cardapio", "title": "Cardápio — Shawarmaverso" },
+    { "path": "/carrinho", "title": "Carrinho — Shawarmaverso" },
+    { "path": "/pedidos", "title": "Meus pedidos — Shawarmaverso" },
+    { "path": "/perfil", "title": "Perfil — Shawarmaverso" },
+    { "path": "/entrar", "title": "Entrar — Shawarmaverso" },
+    { "path": "/cadastro", "title": "Cadastro — Shawarmaverso" }
+  ]
+}
